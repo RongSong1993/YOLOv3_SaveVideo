@@ -1,5 +1,12 @@
 # YOLOv3_SaveVideo
 
+The old version has some problems, you can download the new version by: https://github.com/RongSong1993/YOLOv3-SaveVideo-New/tree/master
+
+Update:
+      The new version can be obtained in:https://github.com/RongSong1993/YOLOv3-SaveVideo-New/tree/master
+
+
+
    The original YOLOv3 version can be obtained from the website：https://pjreddie.com/darknet/yolo/, but it does not save the output video which is detected by default.
 
    So, this project gives a complete project which can save you output video,include your local test video and your webcam's test video. Only two files have been changed,include (./darknet/src/demo.c) and (./darknet/src/image.c). So,you can only change them in your YOLOv3 project.
